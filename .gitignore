@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+venv/
+.python-version
+
+# Translations
+*.pot
+
+# dotenv
+.env
+.DS_Store
+
+#editors
+**/.vscode
+**/.idea
+
+#jupyter
+*.ipynb
